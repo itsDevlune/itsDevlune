@@ -146,6 +146,9 @@ mission: turn curiosity into code
 
 <a href="https://github.com/itsDevlune"><img src="https://img.shields.io/badge/GITHUB-121820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @itsDevlune" /></a>
 <a href="https://x.com/itsdevluen"><img src="https://img.shields.io/badge/X%20%40itsdevluen-121820?style=for-the-badge&logo=x&logoColor=white" alt="X @itsdevlune" /></a>
+<a href="https://discord.com/users/itsdevlune">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 <br /><br />
 
