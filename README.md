@@ -152,6 +152,19 @@ mission: turn curiosity into code
   </a>
 </div>
 
+<div align="center">
+
+### ⚡ Coding Activity | Mission Control
+
+*Tracking my journey through code and the cosmos.*
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 ### 🌐 Contact · Open a channel
 
 <a href="https://github.com/itsDevlune"><img src="https://img.shields.io/badge/GITHUB-121820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @itsDevlune" /></a>
