@@ -133,11 +133,6 @@ mission: turn curiosity into code
 
 <img src="./assets/orbit-divider.svg" width="100%" alt="Cosmic divider" />
 
-### 🕹️ Little corner of the internet
-
-<img src="https://i.imgflip.com/65efzo.gif" height="200" alt="Animated developer meme" />
-
-<sub>A little chaos keeps the universe interesting.</sub>
 
 <!--
   Medium and Spotify are READY TO ENABLE but require YOUR account IDs.
@@ -150,7 +145,7 @@ mission: turn curiosity into code
 ### 🌐 Contact · Open a channel
 
 <a href="https://github.com/itsDevlune"><img src="https://img.shields.io/badge/GITHUB-121820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @itsDevlune" /></a>
-<a href="https://x.com/itsdevluen"><img src="https://img.shields.io/badge/X%20%40itsdevluen-121820?style=for-the-badge&logo=x&logoColor=white" alt="X @itsdevluen" /></a>
+<a href="https://x.com/itsdevluen"><img src="https://img.shields.io/badge/X%20%40itsdevluen-121820?style=for-the-badge&logo=x&logoColor=white" alt="X @itsdevlune" /></a>
 
 <br /><br />
 
