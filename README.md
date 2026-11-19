@@ -35,7 +35,6 @@
 
 ```yaml
 handle: itsDevlune
-location: India
 identity: developer / curious mind
 favorite_things:
   - programming & building
@@ -141,6 +140,17 @@ mission: turn curiosity into code
 -->
 
 <br />
+
+<div align="center">
+  <h3>🪐 Discord • Live from Orbit</h3>
+
+  <a href="https://discord.com/users/1352661689018880031">
+    <img
+      src="https://lanyard.cnrad.dev/api/1352661689018880031?theme=dark&bg=0d1117&borderRadius=15&idleMessage=Exploring%20the%20universe..."
+      alt="Discord Live Status"
+    />
+  </a>
+</div>
 
 ### 🌐 Contact · Open a channel
 
