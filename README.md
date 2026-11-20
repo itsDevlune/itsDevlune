@@ -161,6 +161,18 @@ mission: turn curiosity into code
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 54 mins
+
+Python       32 mins               ████████████▒░░░░░░░░░░░░   48.79 %
+Markdown     12 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+Other        11 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+TOML         7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+YAML         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+```
+
 <!--END_SECTION:waka-->
 
 
