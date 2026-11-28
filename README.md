@@ -163,16 +163,16 @@ mission: turn curiosity into code
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 23 mins
+Total Time: 10 hrs 6 mins
 
-Python                     3 hrs 38 mins         ████████████░░░░░░░░░░░░░   47.68 %
-HTML                       1 hr 35 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-Markdown                   44 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Bash                       21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-YAML                       18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-JSON                       17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other                      15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Text                       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python                     3 hrs 17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 %
+Java Properties            1 hr 42 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+HTML                       1 hr 40 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Markdown                   1 hr 9 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Other                      49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+JSON                       28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Bash                       28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+TypeScript                 27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
